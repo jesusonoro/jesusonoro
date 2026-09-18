@@ -1,6 +1,10 @@
 ## Jesús Oñoro — AI Engineer / AI Architect
 
-I build the infrastructure agents run on, and I ship the products that sit on top of it: on-chain commerce, verifiable credentials, real-time 3D in the browser, and games.
+They call me **dbuidler**, the jack of all trades: frontend, backend, web3 and AI.
+
+Five products live on their own domains. On-chain commerce and credentials settling on Base. Real-time 3D running in a browser tab. And the agent infrastructure underneath all of it — which is the part I go deepest on.
+
+### AI infrastructure
 
 - **MCP** — 6 Model Context Protocol servers in production exposing ~394 tools, plus a multi-tenant MCP gateway.
 - **LLM routing** — two multi-provider routers: 20 models across 9 providers, local→cloud escalation, credit-weighted billing, failover and a provider kill switch. KV-cache compression (PolarQuant + QJL) implemented from scratch.
