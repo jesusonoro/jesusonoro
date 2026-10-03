@@ -19,10 +19,12 @@ I've built and run my own products in production, with real users and real money
 | [studentcenter.io](https://studentcenter.io) | Credentialing marketplace: schools issue verifiable credentials, employers hire | Lead engineer |
 | [dplaza.io](https://dplaza.io) | Multi-tenant commerce: branded storefronts, card and USDC checkout | Lead engineer |
 | [aved.ai](https://aved.ai) | Community platform for the ecosystem above | Lead engineer |
+| [yisustepresta.com](https://yisustepresta.com) | Lending platform for Colombia: loan simulator, borrower portal, operator panel, automated legal rate caps | Founder & engineer |
+| [yisusgames.com](https://yisusgames.com) | Browser games where art and audio are generated at runtime | Creator |
 
 Most of this lives in private repositories. Happy to walk you through the code and architecture on a call.
 
-I also do real-time 3D: browser AR with Three.js ([`ar-suganon`](https://github.com/jesusonoro/ar-suganon), [`gdi-ar-inhaladores`](https://github.com/jesusonoro/gdi-ar-inhaladores)) and games at [yisusgames.com](https://yisusgames.com).
+I also do real-time 3D: browser AR with Three.js ([`ar-suganon`](https://github.com/jesusonoro/ar-suganon), [`gdi-ar-inhaladores`](https://github.com/jesusonoro/gdi-ar-inhaladores)).
 
 ### Stack
 
